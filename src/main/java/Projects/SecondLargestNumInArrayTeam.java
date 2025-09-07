@@ -1,6 +1,6 @@
 package Projects;
 
-public class Test {
+public class SecondLargestNumInArrayTeam {
     public static void main(String[] args) {
 
         int[] numbers={10,20,5,30,80,150,90,60};
@@ -15,7 +15,7 @@ public class Test {
                 secondLargest=numbers[i];
             }
 
-        }
+        } // Deepa
         System.out.println(secondLargest);
     }
 }
