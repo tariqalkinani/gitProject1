@@ -12,4 +12,4 @@ public class DuplicateElementsFromArray {
             }
         }
     }
-}
+}  //Done by Tariq

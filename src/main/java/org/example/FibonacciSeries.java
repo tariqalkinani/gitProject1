@@ -16,4 +16,4 @@ public class FibonacciSeries {
             second = next;
         }
     }
-}
+} //Done by Tariq
