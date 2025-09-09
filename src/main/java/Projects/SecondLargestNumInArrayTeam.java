@@ -18,5 +18,6 @@ public class SecondLargestNumInArrayTeam {
         } // Deepa
         System.out.println(secondLargest);
         System.out.println(); // For clone repo practice
+        System.out.println(); // For clone repo practice
     }
 }
